@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 🤝 I’m looking for a job **in Software Development**
+- 🤝 I’m looking for a job in ** Software Development**
 
 - 💬 Ask me about **java,reactjs**
 
 - 📫 How to reach me **saiswethasree14@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1oTb23fzUo1xQNtsUVAo8dJDivRjWcVgj%2Fview%3Fusp%3Ddrivesdk&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-OGJmYmJiNGQtMzM3OC00YzQ3LThhMzgtN2IzNTYwNTljN2Q1XzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMgpTyv4tSaWHreTRC%2BlT7A%3D%3D](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1oTb23fzUo1xQNtsUVAo8dJDivRjWcVgj%2Fview%3Fusp%3Ddrivesdk&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-OGJmYmJiNGQtMzM3OC00YzQ3LThhMzgtN2IzNTYwNTljN2Q1XzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMgpTyv4tSaWHreTRC%2BlT7A%3D%3D)
-
+- 📄 To know about me [https://drive.google.com/file/d/1YN_wbQ6xExlNXEV3L28VF4d8w_LcpZXP/view?usp=drivesdk]
+  
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
